@@ -10,7 +10,7 @@
 # Flixor (Cross Platform)
 
 ## Description
-A fast, Netflix‑style web app, Android, iOS, and MacOS for your Plex library. Browse beautiful rows, see rich details (IMDb/Rotten Tomatoes), and play instantly in your browser with built‑in DASH/HLS playback. Works on any modern desktop or mobile browser.
+A fast, Netflix‑style web app, Android, iOS, Apple TV, and MacOS for your Plex library. Browse beautiful rows, see rich details (IMDb/Rotten Tomatoes), and play instantly in your browser with built‑in DASH/HLS playback. Works on any modern desktop or mobile browser.
 
 ## Features
 - Netflix‑style home: Continue Watching, Trending, Collections, and more
